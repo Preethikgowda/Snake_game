@@ -1,4 +1,3 @@
-# Snake Game
 About
 This project is a classic Snake Game built using Python. The objective is to control the snake and eat food to grow in length. The game ends when the snake collides with itself or the wall.
 
@@ -7,13 +6,12 @@ Real-time snake movement
 Food generation at random locations
 Score tracking based on snake length
 Game over on collision
-
-#  Installation
-# Clone the repository:
+Installation
+Clone the repository:
 bash
-# Copy code
+Copy code
 git clone https://github.com/Preethikgowda/Snake_game.git
-# Install required dependencies:
+Install required dependencies:
 bash
 Copy code
 pip install -r requirements.txt
