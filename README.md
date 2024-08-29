@@ -1,4 +1,4 @@
-Snake Game
+# Snake Game
 
 # About
 This project is a classic Snake Game built using Python. The objective is to control the snake and eat food to grow in length. The game ends when the snake collides with itself or the wall.
