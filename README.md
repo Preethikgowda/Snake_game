@@ -7,12 +7,13 @@ Real-time snake movement
 Food generation at random locations
 Score tracking based on snake length
 Game over on collision
-Installation
-Clone the repository:
+
+#  Installation
+# Clone the repository:
 bash
-Copy code
+# Copy code
 git clone https://github.com/Preethikgowda/Snake_game.git
-Install required dependencies:
+# Install required dependencies:
 bash
 Copy code
 pip install -r requirements.txt
